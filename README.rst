@@ -16,7 +16,4 @@ performance features, such as:
 Usage
 -----
 
-::
-
-	pip install sentry-relay
-	sentry-relay http://sentry.example:9000
+WIP
