@@ -1,0 +1,6 @@
+[package]
+name = "sentry-relay"
+version = "0.1.0"
+authors = ["Brett Hoerner <brett@sentry.io>"]
+
+[dependencies]
